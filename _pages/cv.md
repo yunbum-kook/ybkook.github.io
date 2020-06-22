@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-###Education
+Education
+------
 __Korea Advanced Institute of Science and Technology (KAIST)__
   * B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
   * Enrolled in Honor program & Double major in Computer Science
@@ -20,7 +21,8 @@ __Korea Science Academy of KAIST__
   * Graduated with distinction in overall GPA
 
 
-###Honors
+Honors and Awards
+------
 __General Alumni Scholarship, KAIST Alumni Association__
   * Scholarship awarded to promising undergraduates in KAIST ($12,000), Jun 2020 - Present
 
@@ -48,33 +50,29 @@ __National Science & Technology Scholarship, Korea Student Aid Foundation__
   * 2015 - 2016
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+------
+__Kakao Corporation__
+  * Internship in Advanced Recommendation Technology team, Dec 2018 - Feb 2019
+  * Topic: *Contextual Multi-Armed Bandit (MAB) Problem in Brunch*
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Teaching Experience
+------
+__Teaching Assistant__, MAS212 (Linear Algebra) 
+  * Spring 2019
+
+__Undergraduate Teaching Assistant__, MAS102 (Calculus II)
+  * Fall 2016
+  
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -90,3 +88,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
