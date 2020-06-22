@@ -6,8 +6,8 @@ main:
   - title: "Courseworks"
     url: /courseworks/
 
-  #- title: "Translated Articles"
-  #  url: /translation
+  - title: "Translated Articles"
+    url: /translation/
   
   - title: "Talks"
     url: /talks/    
@@ -18,8 +18,8 @@ main:
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "CV"
     url: /cv/

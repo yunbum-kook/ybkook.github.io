@@ -7,14 +7,13 @@ author_profile: true
 {% include base_path %}
 
 
-
-[1. Advanced Calculus 3 (고급미적분학3)](#advanced-calculus-3-고급미적분학3)  
-[2. Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis-i-ii-mas241-mas242))  
-[3. Introduction to Graph Theory (MAS477)](#introduction-to-graph-theory-mas477)
-
+[1. Advanced Calculus 3 (고급미적분학3)](#advanced-calculus-3)  
+[2. Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis)  
+[3. Introduction to Graph Theory (MAS477)](#introduction-to-graph-theory)
 
 
-## Advanced Calculus 3 (고급미적분학3)
+
+## Advanced Calculus 3 
 * __Note__
 	* This supplementary material was written when I was 2nd grade highschool (KSA) student. Lectures for this course were super fast and omitted some details, so I wrote a detail proofs on important theorem in calculus, filling those gaps in the lectures.
 	* Feel free to correct me!
@@ -37,7 +36,7 @@ author_profile: true
 	* [MAS242 Quizzes](https://drive.google.com/open?id=1lGLGbAUIHCcNNQQkWO0L8L3tPpvNNlVD)
 
 
-## Introduction to Graph Theory (MAS477)
+## Introduction to Graph Theory
 * __Note__
 	* __(Change) Lecture notes and homeworks can't be uploaded on the Internet due to potential copyright issue. Please email me for access to them.__
 	* These lecture notes and homework solutions are typed up by myself, so they possibly have some typos or errors. Feel free to correct me.
