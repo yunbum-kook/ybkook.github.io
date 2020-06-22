@@ -21,7 +21,6 @@ __Korea Science Academy of KAIST__
   * Graduated as salutatorian in Mathematics,  Mar 2012 - Feb 2015
   * Graduated with distinction in overall GPA
 
-
 Honors and Awards
 -----
 __General Alumni Scholarship, KAIST Alumni Association__
@@ -67,17 +66,17 @@ __Undergraduate Teaching Assistant__, MAS102 (Calculus II)
   * Fall 2016
   
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 <!--  
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Publications
+-----
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
