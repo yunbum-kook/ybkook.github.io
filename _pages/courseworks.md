@@ -9,7 +9,7 @@ author_profile: true
 
 
 [1. Advanced Calculus 3 (고급미적분학3)](#advanced-calculus-3-고급미적분학3)  
-[2. Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis-i-ii-mas241-mas242))  
+[2. Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis-i-ii-mas241-mas242)  
 [3. Introduction to Graph Theory (MAS477)](#introduction-to-graph-theory-mas477)
 
 
