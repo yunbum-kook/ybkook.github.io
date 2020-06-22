@@ -46,7 +46,7 @@ __목차__
 
 영어가 모국어가 아닌 사람들이 기술하는 정의들은 때때로 필요없는 쉼표 (comma) 를 가지고 있다. 예를 들면 아래 문장들에서 쉼표는 생략돼야 한다.
 
-"A _bipartite graph_, is a graph that is 2-colorable" (X)
+"A _bipartite graph_, is a graph that is 2-colorable" (X)  
 "A graph is _bipartite_, if it is 2-colorable" (X)
 
 또한 위 문장에서 이탤릭체 적용의 차이를 주목하라. 형용사-명사 조합으로 쓰일 땐, 정의되고 있는 용어가 그러한 특징을 가지는 구조를 위한 이름이기에 bipartite graph 통채로 이탤릭체로 쓰여야 한다. 특징 그 자체가 (bipartite) 정의되고 술어 형용사 형태로 쓰일 땐, 오직 그 형용사만 이탤릭체로 쓰여야 한다.
