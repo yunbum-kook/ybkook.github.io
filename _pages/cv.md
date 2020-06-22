@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short Biography"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-Korea Advanced Institute of Science and Technology (KAIST)
-* B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
-* Enrolled in Honor program & Double major in Computer Science
-* Left for mandatory military service,  Jan 2017 - Oct 2018
-Korea Science Academy of KAIST
-* Graduated as salutatorian in Mathematics,  Mar 2012 - Feb 2015
-* Graduated with distinction in overall GPA
+__Korea Advanced Institute of Science and Technology (KAIST)__
+  * B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
+  * Enrolled in Honor program & Double major in Computer Science
+  * Left for mandatory military service,  Jan 2017 - Oct 2018
+__Korea Science Academy of KAIST__
+  * Graduated as salutatorian in Mathematics,  Mar 2012 - Feb 2015
+  * Graduated with distinction in overall GPA
 
 Honors
 =====

@@ -1,6 +1,5 @@
 ---
 permalink: /
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,4 +13,4 @@ I am a senior undergraduate in [Department of Mathematical Science](https://math
 
 Contact
 ------
-Email: yb.kook@k12a11ist.ac.kr (remove 12 and 11)
+Email: <yb.kook@k12a11ist.ac.kr> (remove 12 and 11)
