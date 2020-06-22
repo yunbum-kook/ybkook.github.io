@@ -10,17 +10,18 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+-----
 __Korea Advanced Institute of Science and Technology (KAIST)__
   * B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
   * Enrolled in Honor program & Double major in Computer Science
   * Left for mandatory military service,  Jan 2017 - Oct 2018
+  
 __Korea Science Academy of KAIST__
   * Graduated as salutatorian in Mathematics,  Mar 2012 - Feb 2015
   * Graduated with distinction in overall GPA
 
 Honors
-=====
+-----
 General Alumni Scholarship, KAIST Alumni Association
 * Scholarship awarded to promising undergraduates in KAIST ($12,000), Jun 2020 - Present
 Undergraduate Scholarship, Korea Foundation for Advanced Studies
