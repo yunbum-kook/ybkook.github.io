@@ -3,6 +3,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  #- title: "Courseworks"
+  #  url: /courseworks
+
+  #- title: "Translated Articles"
+  #  url: /translation
+  
   - title: "Talks"
     url: /talks/    
 
