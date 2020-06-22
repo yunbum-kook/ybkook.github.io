@@ -20,12 +20,9 @@ tags:
 __목차__
 
 
-| [수학적 형식 (1~27)](#mathematical-style-수학적-형식)
-
-[용어/표기법 (28~57)](#terminologynotation-용어표기법)
-
-[영어 사용 (58~81)](#english-usage-in-mathematical-writing-수학적-글쓰기에서-영어-사용)
-
+[수학적 형식 (1~27)](#mathematical-style-수학적-형식)  
+[용어/표기법 (28~57)](#terminologynotation-용어표기법)  
+[영어 사용 (58~81)](#english-usage-in-mathematical-writing-수학적-글쓰기에서-영어-사용)  
 [비원어민을 위해 (82~92)](#mathematical-english-for-non-native-speakers-비원어민을-위한-수학적-영어)
 
 
@@ -313,7 +310,7 @@ i.e.와 e.g.는 라틴어 구의 약자이다. i.e.는 that is를 뜻하고 직�
 
 비록 "The degree of this vertex is 3”는 맞는 표현이지만 “This vertex has the degree 3”로 쓰진 않는다. 다음 문장 "Every graph has an even number of vertices with odd degree, which means that the list of vertex degrees has even sum.”을 살펴보자. 여기서 “even number”은 관사 an을 필요로 한다. 왜냐면 우리는 지금 ‘어떤 타입의 숫자가 쓰이는 지’에 대해 얘기하고 있기 때문이다. 뒷 부분의 “odd degree”와 “even sum”은 관사를 필요로 하지 않는데, 이는 꼭지점이나 목록이 만족시키거나 그러지 않은 ‘특성(조건)’들이기 때문에다. 특징을 상기시킬 땐 관사는 적합하지 않다.
 
-또한 관사는 개념적 명사와 함께 쓰이지 않는다. 우리는 “This chair has value \$100”라고 얘기하지 “This chair the value \$100”라 하지 않는다. 여기서 “value”와 “degree”는 추상적 특징이다. 또 다른 예시로는 “I receive compensation for my work”라고 하지 "I receive a compensation for my work.”라 하지 않는다. 급여(compensation)는 수량이긴 하지만, 여기선 ‘급여를 받는다’는 추상적 개념만 의도됐다. 따라서 관사를 쓰지 않는다.
+또한 관사는 개념적 명사와 함께 쓰이지 않는다. 우리는 “This chair has value \\$100”라고 얘기하지 “This chair the value \\$100”라 하지 않는다. 여기서 “value”와 “degree”는 추상적 특징이다. 또 다른 예시로는 “I receive compensation for my work”라고 하지 "I receive a compensation for my work.”라 하지 않는다. 급여(compensation)는 수량이긴 하지만, 여기선 ‘급여를 받는다’는 추상적 개념만 의도됐다. 따라서 관사를 쓰지 않는다.
 
 유사하게 추상적 성질 또한 관사를 필요로 하지 않는다. "because the transitivity of A implies the transitivity of B”가 아니라 "because transitivity of A implies transitivity of B”로 쓴다.
 
@@ -428,9 +425,9 @@ either이란 단어는 exclusive or (둘 중 하나만 성립) 을 뜻한다. �
 "necessary conditions of" → "necessary conditions for"  
 "discuss about" → "discuss"  
 "studied about" → "studied"  
-"equals to" → "equals" or "is equal to"  
+"equals to" → "equals" 혹은 "is equal to"  
 "to precise" → "to make precise" (precise는 동사가 아님)  
-"a same argument" → "the same argument" or "a similar argument"  
+"a same argument" → "the same argument" 혹은 "a similar argument"  
 "joint" (동사로 사용) → "join" (joint는 동사 아님)  
 "specially" → "especially" 혹은 "special" (specially는 단어 아님)  
 "usual coloring" → "ordinary proper coloring"  
