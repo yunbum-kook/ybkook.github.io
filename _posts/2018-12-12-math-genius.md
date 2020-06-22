@@ -3,7 +3,7 @@ title: '테렌스 타오 - 수학을 하기 위해선 천재가 돼야만 할까
 date: 2018-12-12
 permalink: /translation/math_only_genius
 tags:
-  - Terence tao
+  - Terence Tao
   - Math
 ---
 

@@ -20,8 +20,13 @@ tags:
 __목차__
 
 
-| [수학적 형식 (1~27)](#mathematical-style-수학적-형식)   | [용어/표기법 (28~57)](#terminologynotation-용어표기법)   | [영어 사용 (58~81)](#english-usage-in-mathematical-writing-수학적-글쓰기에서-영어-사용) | [비원어민을 위해 (82~92)](#mathematical-english-for-non-native-speakers-비원어민을-위한-수학적-영어) |
-|--|--|--|--|
+| [수학적 형식 (1~27)](#mathematical-style-수학적-형식)
+
+[용어/표기법 (28~57)](#terminologynotation-용어표기법)
+
+[영어 사용 (58~81)](#english-usage-in-mathematical-writing-수학적-글쓰기에서-영어-사용)
+
+[비원어민을 위해 (82~92)](#mathematical-english-for-non-native-speakers-비원어민을-위한-수학적-영어)
 
 
 
@@ -74,8 +79,8 @@ __목차__
 [반면에, "we have"는 수식을 분리하기 위함이 아닐 땐 생략돼야 할 어색한 구문이다. 예를 들면, "By the preceding theorem, we have A= B" 대신에 "By the preceding theorem, A=B"가 선호된다.]
 
 예를 들면
-"When _k=2_, _G_ is Eulerian.” &rightarrow; “When _k=2_, the graph _G_ is Eulerian"
-"For every bipartite graph _G_, _χ(G)≤2_" &rightarrow; “If _G_ is bipartite, then _χ(G)≤2_".
+"When _k=2_, _G_ is Eulerian.” → “When _k=2_, the graph _G_ is Eulerian"
+"For every bipartite graph _G_, _χ(G)≤2_" → “If _G_ is bipartite, then _χ(G)≤2_".
 
 ### 7. Initial notation (표기법으로 시작하는 문장)
 
@@ -94,9 +99,9 @@ _예외_: 최소 3개 이상으로 이뤄진 리스트에 대해선, “and”�
 수학을 표현하는 많은 저자들은 쉼표를 통해서 혹은 괄호를 사용해 조건을 부여하면서 추가적인 설명들을 생략한다. 이런 것들은 읽기를 어렵게 만든다. 표기법을 감싸는 괄호는 수학적 대상이기 때문에 단어를 대체할 수 없다. "Let _m(m≤n)_ be the size" 같은 문장은 오로지 저자에게만 쉽게 다가온다.
 
 _다른 예시_:
-"Suppose there is an edge _xy_ (≠*e*) in _G_" &rightarrow; "Suppose that _G_ has an edge _xy_ other than _e_".
-"For _k≤m_ (_k_ even)" 혹은 "For _k≤m_, _k_ even" &rightarrow; "For _k≤m_ with _k_ even"
-"Consider _a<sub>i</sub>_ (_1≤i≤n_)" &rightarrow; "Consider _a<sub>i</sub>_ for _1≤i≤n_"
+"Suppose there is an edge _xy_ (≠*e*) in _G_" → "Suppose that _G_ has an edge _xy_ other than _e_".  
+"For _k≤m_ (_k_ even)" 혹은 "For _k≤m_, _k_ even" → "For _k≤m_ with _k_ even"  
+"Consider _a<sub>i</sub>_ (_1≤i≤n_)" → "Consider _a<sub>i</sub>_ for _1≤i≤n_"
 
 ### 10. Mixing words and notation (단어와 표기법을 섞는 행위)
 
@@ -176,7 +181,7 @@ Assume되는 서술은 전반에 걸쳐 참이라고 여겨지는 공리다. Sup
 
 ### 27. Numerals and spelled numbers (숫자와 풀어쓰기)
 
-표준적인 영어 쓰기에선 10 미만의 숫자는 철자를 모두 풀어쓰고 (2 &rightarrow; two), 10 이상은 숫자로 쓴다. 수학적 글쓰기에선 이러한 구분 짓는 기준이 다르다. 10 미만의 숫자는 객체의 수량을 나타내는 형용사로 쓰일 때만 풀어쓴다. 어떤 양이 가지는 값을 지정할 땐 숫자로 남아있어야 한다.
+표준적인 영어 쓰기에선 10 미만의 숫자는 철자를 모두 풀어쓰고 (2 → two), 10 이상은 숫자로 쓴다. 수학적 글쓰기에선 이러한 구분 짓는 기준이 다르다. 10 미만의 숫자는 객체의 수량을 나타내는 형용사로 쓰일 때만 풀어쓴다. 어떤 양이 가지는 값을 지정할 땐 숫자로 남아있어야 한다.
 
 _예시_:
 "The two vertices both have degree 3"  
@@ -194,7 +199,7 @@ _예시_:
 
 ### 29. “Such that” in set definitions: “:” vs “|” (집합 정의안의 조건기호)
 
-많은 이유로 “:”가 “|”보다 좋은 선택이다. “|”는 수학에서 이미 많은 용도(집합의 크기, 나눔 기호)로 쓰이고 있다. 또한 Latex 환경에서 단순히 “:”가 아닌 “\colon\\,”으로 써야 한다.
+많은 이유로 “:”가 “\|”보다 좋은 선택이다. “\|”는 수학에서 이미 많은 용도(집합의 크기, 나눔 기호)로 쓰이고 있다. 또한 Latex 환경에서 단순히 “:”가 아닌 “\colon\\,”으로 써야 한다.
 
 ### 30. Sequences, series, and lists
 
@@ -260,7 +265,7 @@ Latex에서의 setminus 명령어는 집합의 뺄셈을 의미한다. 따라서
 
 다음 두 문장은 다른 의미를 가진다.
 
-a) "She will attend our meetings that concern calculus."
+a) "She will attend our meetings that concern calculus."  
 b) "She will attend our meetings, which concern calculus."
 
 문장 a는 여러 미팅 중 그녀는 미적분학 관련 미팅만 참여하고 아마 나머지는 참여하지 않느다는 의미를 가진다. 문장 b는 모든 미팅은 미적분학과 관련이 있고 그녀는 모든 미팅을 참여한다는 것이다. 일상 영어에서 이 차이는 더욱 명확하다.
@@ -308,7 +313,7 @@ i.e.와 e.g.는 라틴어 구의 약자이다. i.e.는 that is를 뜻하고 직�
 
 비록 "The degree of this vertex is 3”는 맞는 표현이지만 “This vertex has the degree 3”로 쓰진 않는다. 다음 문장 "Every graph has an even number of vertices with odd degree, which means that the list of vertex degrees has even sum.”을 살펴보자. 여기서 “even number”은 관사 an을 필요로 한다. 왜냐면 우리는 지금 ‘어떤 타입의 숫자가 쓰이는 지’에 대해 얘기하고 있기 때문이다. 뒷 부분의 “odd degree”와 “even sum”은 관사를 필요로 하지 않는데, 이는 꼭지점이나 목록이 만족시키거나 그러지 않은 ‘특성(조건)’들이기 때문에다. 특징을 상기시킬 땐 관사는 적합하지 않다.
 
-또한 관사는 개념적 명사와 함께 쓰이지 않는다. 우리는 “This chair has value $100”라고 얘기하지 “This chair the value $100”라 하지 않는다. 여기서 “value”와 “degree”는 추상적 특징이다. 또 다른 예시로는 “I receive compensation for my work”라고 하지 "I receive a compensation for my work.”라 하지 않는다. 급여(compensation)는 수량이긴 하지만, 여기선 ‘급여를 받는다’는 추상적 개념만 의도됐다. 따라서 관사를 쓰지 않는다.
+또한 관사는 개념적 명사와 함께 쓰이지 않는다. 우리는 “This chair has value \$100”라고 얘기하지 “This chair the value \$100”라 하지 않는다. 여기서 “value”와 “degree”는 추상적 특징이다. 또 다른 예시로는 “I receive compensation for my work”라고 하지 "I receive a compensation for my work.”라 하지 않는다. 급여(compensation)는 수량이긴 하지만, 여기선 ‘급여를 받는다’는 추상적 개념만 의도됐다. 따라서 관사를 쓰지 않는다.
 
 유사하게 추상적 성질 또한 관사를 필요로 하지 않는다. "because the transitivity of A implies the transitivity of B”가 아니라 "because transitivity of A implies transitivity of B”로 쓴다.
 
@@ -376,7 +381,7 @@ either이란 단어는 exclusive or (둘 중 하나만 성립) 을 뜻한다. �
 
 ### 82. "Bound of"
 
-많은 비원어민들은 "bound on"을 의미하고 싶을 때 "bound of"를 사용한다. _x≤ k_ 가 주어졌을 때 upper bound **of** _k_ **on** _x_을 가지고 있는 셈이다. 여기서 "bound on _x_" 대신에 "bound of _x_"를 사용하면 모수를 비교할 때 혼동을 줄 수 있다.
+많은 비원어민들은 "bound on"을 의미하고 싶을 때 "bound of"를 사용한다. _x≤ k_ 가 주어졌을 때 upper bound **of** _k_ **on** *x* 을 가지고 있는 셈이다. 여기서 "bound on *x*" 대신에 "bound of *x*"를 사용하면 모수를 비교할 때 혼동을 줄 수 있다.
 
 ### 83. "few" vs "a few"
 
@@ -418,15 +423,15 @@ either이란 단어는 exclusive or (둘 중 하나만 성립) 을 뜻한다. �
 
 ### 92. More expressions not used in English (영어에서 안 쓰이는 표현들)
 
-"contradicts to" &rightarrow; "contradicts"  
-"decompose to" &rightarrow; "decompose into"  
-"necessary conditions of" &rightarrow; "necessary conditions for"  
-"discuss about" &rightarrow; "discuss"  
-"studied about" &rightarrow; "studied"  
-"equals to" &rightarrow; "equals" or "is equal to"  
-"to precise" &rightarrow; "to make precise" (precise는 동사가 아님)  
-"a same argument" &rightarrow; "the same argument" or "a similar argument"  
-"joint" (동사로 사용) &rightarrow; "join" (joint는 동사 아님)  
-"specially" &rightarrow; "especially" 혹은 "special" (specially는 단어 아님)  
-"usual coloring" &rightarrow; "ordinary proper coloring"  
-"We pick up" &rightarrow; "We consider"
+"contradicts to" → "contradicts"  
+"decompose to" → "decompose into"  
+"necessary conditions of" → "necessary conditions for"  
+"discuss about" → "discuss"  
+"studied about" → "studied"  
+"equals to" → "equals" or "is equal to"  
+"to precise" → "to make precise" (precise는 동사가 아님)  
+"a same argument" → "the same argument" or "a similar argument"  
+"joint" (동사로 사용) → "join" (joint는 동사 아님)  
+"specially" → "especially" 혹은 "special" (specially는 단어 아님)  
+"usual coloring" → "ordinary proper coloring"  
+"We pick up" → "We consider"
