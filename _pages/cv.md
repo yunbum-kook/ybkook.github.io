@@ -8,12 +8,14 @@ redirect_from:
 
 {% include base_path %}
 
+My full CV is available at [here](https://www.dropbox.com/s/1hcryg2ppayjb4y/cv_english.pdf?dl=0).
+
 Education
-------
+-----
 __Korea Advanced Institute of Science and Technology (KAIST)__
-    * B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
-    * Enrolled in Honor program & Double major in Computer Science
-    * Left for mandatory military service,  Jan 2017 - Oct 2018
+  * B.S. in Mathematical Sciences,  Mar 2015 - Present (2021 Feb expected)
+  * Enrolled in Honor program & Double major in Computer Science
+  * Left for mandatory military service,  Jan 2017 - Oct 2018
 
 __Korea Science Academy of KAIST__
   * Graduated as salutatorian in Mathematics,  Mar 2012 - Feb 2015
@@ -21,7 +23,7 @@ __Korea Science Academy of KAIST__
 
 
 Honors and Awards
-------
+-----
 __General Alumni Scholarship, KAIST Alumni Association__
   * Scholarship awarded to promising undergraduates in KAIST ($12,000), Jun 2020 - Present
 
@@ -50,14 +52,14 @@ __National Science & Technology Scholarship, Korea Student Aid Foundation__
 
 
 Work Experience
-------
+-----
 __Kakao Corporation__
   * Internship in Advanced Recommendation Technology team, Dec 2018 - Feb 2019
   * Topic: *Contextual Multi-Armed Bandit (MAB) Problem in Brunch*
   
 
 Teaching Experience
-------
+-----
 __Teaching Assistant__, MAS212 (Linear Algebra) 
   * Spring 2019
 
