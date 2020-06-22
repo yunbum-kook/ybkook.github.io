@@ -17,7 +17,7 @@ author_profile: true
 	* Textbook: Vector Calculus, by Jerrold E. Marsden, Anthony Tromba
 	* Year: 2013 Spring  
 	* [Missing Proofs in Advanced Calculus 3](https://drive.google.com/open?id=0B6xP1i3eFA8EWW9EeUxIaENOYWM)
-
+</details>
 <details>
     <summary>Mathematical Analysis I, II (MAS241, MAS242)</summary>
 
