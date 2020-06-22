@@ -17,6 +17,8 @@ Parinya Chalermsook, Syamantak Das, Bundit Laekhanukit, <ins>Yunbum Kook</ins>, 
 
 **Incremental Lossless Graph Summarization**, KDD 2020 ([arxiv](https://arxiv.org/abs/2006.09935))  
 {<ins>Yunbum Kook</ins>, Jihoon Ko}, Kijung Shin
+
+
 <!--
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
