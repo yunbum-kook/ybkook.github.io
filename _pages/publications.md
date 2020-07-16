@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Vertex Sparsification for Edge Connectivity**, in submission  
+**Vertex Sparsification for Edge Connectivity**, in submission ([arxiv](https://arxiv.org/abs/2007.07862))  
 with Parinya Chalermsook, Syamantak Das, Bundit Laekhanukit, Yang P. Liu, Richard Peng, Mark Sellke, Daniel Vaz
 
 
