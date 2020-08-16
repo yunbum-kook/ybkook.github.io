@@ -1,3 +1,4 @@
+<!--  
 ---
 title: "Short Biography"
 permalink: /cv/
@@ -66,7 +67,7 @@ __Undergraduate Teaching Assistant__, MAS102 (Calculus II)
   * Fall 2016
   
 
-<!--  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
