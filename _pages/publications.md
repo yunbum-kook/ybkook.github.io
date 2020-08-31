@@ -14,10 +14,10 @@ author_profile: true
 **Vertex Sparsification for Edge Connectivity**, submitted ([arxiv](https://arxiv.org/abs/2007.07862))  
 with Parinya Chalermsook, Syamantak Das, Bundit Laekhanukit, Yang P. Liu, Richard Peng, Mark Sellke, Daniel Vaz
 
-**Evolution of Real-world Hypergraphs: Patterns and Models without Oracles**, IEEE ICDM 2020 (full paper)   
+**Evolution of Real-world Hypergraphs: Patterns and Models without Oracles** (full), IEEE ICDM 2020 ([arxiv](https://arxiv.org/pdf/2008.12729.pdf)|[code](https://github.com/yunbum-kook/icdm20-hyperff))
 <ins>Yunbum Kook</ins>, Jihoon Ko, Kijung Shin
 
-**Incremental Lossless Graph Summarization**, KDD 2020 ([arxiv](https://arxiv.org/abs/2006.09935)|[code](http://dmlab.kaist.ac.kr/mosso/))  
+**Incremental Lossless Graph Summarization**, KDD 2020 ([arxiv](https://arxiv.org/pdf/2006.09935.pdf)|[code](http://dmlab.kaist.ac.kr/mosso/))  
 {<ins>Yunbum Kook</ins>, Jihoon Ko}, Kijung Shin
 
 
