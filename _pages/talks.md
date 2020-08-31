@@ -9,7 +9,7 @@ author_profile: true
 
 ## 2020
 * August 25, 2020: 26th ACM SIGKDD Conference on Knowl- edge Discovery and Data Mining (SIGKDD), San Diego, CA, United States (Virtual).
-	* [Incremental Lossless Graph Summarization](https://www.kdd.org/kdd2020/schedule). ([Short](https://www.youtube.com/watch?v=uq5vVPBopU8&feature=youtu.be)I[Long](https://www.youtube.com/watch?v=FHVx642GoaI&feature=youtu.be))
+	* [Incremental Lossless Graph Summarization](https://www.kdd.org/kdd2020/schedule). ([Long](https://www.youtube.com/watch?v=FHVx642GoaI&feature=youtu.be))
 	* In this talk, I introduce our work "Incremental Lossless Graph Summarization" published in KDD 20. Beginning with what graph summarization is and why it is important, I give a motivation for "incremental" graph summarization. Then I elaborate on our scheme for incrementally updating a summarized graph and on what techniques are employed in order to achieve fast update and effective compression.
 
 * August 11, 2020: Discrete Math Seminar, [IBS Discrete Mathematics Group](https://dimag.ibs.re.kr), Daejeon, Korea.
