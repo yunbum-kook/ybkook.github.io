@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-**Vertex Sparsification for Edge Connectivity**, submitted ([arxiv](https://arxiv.org/abs/2007.07862))  
+**Vertex Sparsification for Edge Connectivity**, SODA 2021 ([arxiv](https://arxiv.org/abs/2007.07862))  
 with Parinya Chalermsook, Syamantak Das, Bundit Laekhanukit, Yang P. Liu, Richard Peng, Mark Sellke, Daniel Vaz
 
 **Evolution of Real-world Hypergraphs: Patterns and Models without Oracles** (full), IEEE ICDM 2020 ([arxiv](https://arxiv.org/pdf/2008.12729.pdf)|[code](https://github.com/yunbum-kook/icdm20-hyperff))
