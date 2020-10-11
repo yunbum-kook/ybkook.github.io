@@ -6,9 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
-[The Probabilistic Method (MAS583)](#introduction-to-graph-theory-mas583) 
-[Introduction to Graph Theory (MAS477)](#introduction-to-graph-theory-mas477) 
-[Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis-i-ii-mas241-mas242)   
+[The Probabilistic Method (MAS583)](#the-probabilistic-method-mas583)  
+[Introduction to Graph Theory (MAS477)](#introduction-to-graph-theory-mas477)  
+[Mathematical Analysis I, II (MAS241, MAS242)](#mathematical-analysis-i-ii-mas241-mas242)    
 [Advanced Calculus 3 (고급미적분학3)](#advanced-calculus-3-고급미적분학3) 
 
 
