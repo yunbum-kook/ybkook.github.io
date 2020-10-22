@@ -98,7 +98,7 @@ author_profile: true
 
 ## Advanced Calculus 3 (고급미적분학3)
 * __Note__
-	* This supplementary material was written when I was 2nd grade highschool (KSA) student. Lectures for this course were super fast and omitted some details, so I wrote a detail proofs on important theorem in calculus, filling those gaps in the lectures.
+	* This supplementary material was written when I was 2nd grade high school (KSA) student. Lectures for this course were super fast and omitted several details, so I wrote up detailed proofs of important theorems in calculus.
 	* Feel free to correct me!
 * __Info__
 	* Textbook: Vector Calculus, by Jerrold E. Marsden, Anthony Tromba
