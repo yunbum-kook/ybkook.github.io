@@ -14,8 +14,8 @@ author_profile: true
 
 ## The Probabilistic Method (MAS583) 
 * __Note__
-	* Textbook: The Probabilistic Method (Noga Alon, Joel H. Spencer) 
-	* The homework files below are my solutions, parts of ideas for which are obtained from friends and papers on the Internet, for exercises in the textbook. Feel free to correct me.
+	* Textbook: The Probabilistic Method, 4th edition (Noga Alon and Joel H. Spencer) 
+	* The homework files below are my solutions for exercises in the textbook "The Probabilistic Method (4th edition, Alon and Spencer)". Parts of ideas come from friends and papers on the Internet. Feel free to correct me.
 	* These solution files will have been updated through this semester.
 * __Solutions__ 
 	* [Chapter 1](https://www.dropbox.com/s/4laj67ab3lt89vb/Probabilistic%20Method%20Homework%201%2C%20Yunbum%20Kook.pdf?dl=0) 
@@ -26,7 +26,7 @@ author_profile: true
 	
 ## Introduction to Graph Theory (MAS477)
 * __Note__
-	* __(Change) Lecture notes and homeworks can't be uploaded on the Internet due to potential copyright issue. Please email me for access to them.__
+	* __(Change) Lecture notes and assignments are not publicly available anymore due to potential copyright issues. Please email me for access to them.__ 
 	* These lecture notes and homework solutions are typed up by myself, so they possibly have some typos or errors. Feel free to correct me.
 * __Lecture Notes__
 	* Basics and Tree
@@ -84,8 +84,8 @@ author_profile: true
 
 ## Mathematical Analysis I, II (MAS241, MAS242)
 * __Note__
-	* It was professor Shin's last teaching on MAS241 and MAS242. For a long time, her course had been famous for heavy loads. Every class had a quiz on 13 T/F problems and these course required three 12 hour exams during a semester.
-	* All quiz problems with solutions are shared as below. In a way that I struggled to find out counter examples for FALSE problems and to prove for TRUE problems, I believe that I had mathematically and logically grown up.
+	* It was professor Sujin Shin’s last teaching on MAS241 and MAS242. For a long time, her course had been known for heavy loads: students had a daily quiz on 13 T/F problems and three 12 hour exams during a semester.  
+	* All quiz problems with solutions are shared below. Much as I learned a lot from struggling to find out counterexamples for FALSE problems and to prove for TRUE problems, trying this would be a good chance to mathematically and logically step up.   
 * __Info__
 	* Textbook: Lecture notes from professor
 	* Instructor: Sujin Shin
@@ -98,8 +98,7 @@ author_profile: true
 
 ## Advanced Calculus 3 (고급미적분학3)
 * __Note__
-	* This supplementary material was written when I was 2nd grade high school (KSA) student. Lectures for this course were super fast and omitted several details, so I wrote up detailed proofs of important theorems in calculus.
-	* Feel free to correct me!
+	* This supplementary material was written when I was a second-grade high school (KSA) student. Lectures were delivered so fast and omitted several details, so I wrote up detailed proofs of important theorems in calculus.  
 * __Info__
 	* Textbook: Vector Calculus, by Jerrold E. Marsden, Anthony Tromba
 	* Year: 2013 Spring  
