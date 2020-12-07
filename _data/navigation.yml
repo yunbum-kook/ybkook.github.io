@@ -6,11 +6,14 @@ main:
   - title: "Talks"
     url: /talks/
     
-  - title: "Courseworks"
-    url: /courseworks/
+  - title: "Misc."
+    url: /misc/
 
-  - title: "Translated Articles"
-    url: /translation/
+  #- title: "Courseworks"
+  #  url: /courseworks/
+
+  #- title: "Translated Articles"
+  #  url: /translation/
   
       
 

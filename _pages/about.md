@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-I am a senior undergraduate at [Department of Mathematical Science](https://mathsci.kaist.ac.kr/home/) in KAIST. My field of interest lies in algorithmic aspects of CS (graph, streaming, randomized algorithms), graph theory, optimization, theoretical machine learning, and data mining. I am open to any field as long as it requires mathematical knowledge for problem-solving!
+I am a senior undergraduate at [Department of Mathematical Science](https://mathsci.kaist.ac.kr/home/) in KAIST. I am interested in theoretical computer science, especially algorithmic problems (sampling, optimization, learning etc.), with a focus on design and analysis of provably efficient algorithms.
+I am also interested in probabilistic combinatorics and data mining [(CV)](https://www.dropbox.com/s/hqsu6y1s39xk5nq/cv_english.pdf?dl=0).
 
-[CV](https://www.dropbox.com/s/hqsu6y1s39xk5nq/cv_english.pdf?dl=0)
+
 
 
 Contact
