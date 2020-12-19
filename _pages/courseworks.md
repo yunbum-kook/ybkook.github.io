@@ -16,12 +16,8 @@ author_profile: true
 * __Note__
 	* Textbook: The Probabilistic Method, 4th edition (Noga Alon and Joel H. Spencer) 
 	* The homework files below are my solutions for exercises in the textbook "The Probabilistic Method (4th edition, Alon and Spencer)". Parts of ideas come from friends and papers on the Internet. Feel free to correct me.
-	* These solution files will have been updated through this semester.
-* __Solutions__ 
-	* [Chapter 1](https://www.dropbox.com/s/4laj67ab3lt89vb/Probabilistic%20Method%20Homework%201%2C%20Yunbum%20Kook.pdf?dl=0) 
-	* [Chapter 2](https://www.dropbox.com/s/cwgtq0zrevsct61/Probabilistic%20Method%20Homework%202%2C%20Yunbum%20Kook.pdf?dl=0) 
-	* [Chapter 3](https://www.dropbox.com/s/8b4c05n1s55yqen/Probabilistic%20Method%20Homework%203%2C%20Yunbum%20Kook.pdf?dl=0) 
-	* [Chapter 4](https://www.dropbox.com/s/n9q1ifotm86eqdb/Probabilistic%20Method%20Homework%204%2C%20Yunbum%20Kook.pdf?dl=0) 
+* __Solutions__  
+	* [Chapter 1-8, 15](https://drive.google.com/file/d/1QXReP6M2a0RpgqebBDD2H0-_A7TZw5Zc/view?usp=sharing) 
 	
 	
 ## Introduction to Graph Theory (MAS477)
