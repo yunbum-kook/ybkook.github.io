@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-## 20201
+## 2021
 * January 12, 2021: ACM-SIAM Symposium on Discrete Algorithms (SODA21), Virtual.  
 	* Vertex Sparsification for Edge Connectivity. (Video: [Short](https://youtu.be/tjZPp8Ijyko) , [Long](https://youtu.be/8mF-0tU1LmI))
 
