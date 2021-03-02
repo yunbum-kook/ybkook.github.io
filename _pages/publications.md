@@ -20,7 +20,7 @@ with Parinya Chalermsook, Syamantak Das, Bundit Laekhanukit, Yang P. Liu, Richar
 ICDM 2020 Best Paper Candidate for KAIS Publication  
 [Arxiv](https://arxiv.org/pdf/2008.12729.pdf)		[Slide](http://dmlab.kaist.ac.kr/~kijungs/evolutionICDM2020.pdf)		[Code](https://github.com/yunbum-kook/icdm20-hyperff)		[Video](https://www.youtube.com/watch?v=lCBlOAK0nlw&t=653s). 
 
-**Incremental Lossless Graph Summarization**, KDD 2020. 
+**Incremental Lossless Graph Summarization**, KDD 2020.   
 {<ins>Yunbum Kook</ins>, Jihoon Ko}, Kijung Shin.  
 [Arxiv](https://arxiv.org/pdf/2006.09935.pdf)		[Slide](https://www.slideshare.net/ssuserd6bbc0/incremental-lossless-graph-summarization-kdd-2020)		[Code](http://dmlab.kaist.ac.kr/mosso/)		[Video](https://www.youtube.com/watch?v=FHVx642GoaI&feature=youtu.be)
 
